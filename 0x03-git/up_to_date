@@ -1,1 +1,7 @@
-vi up_to_date
+git push
+git commit
+git add
+git pull
+git checkout
+vi
+
